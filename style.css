@@ -158,6 +158,10 @@ header h1 .count {
     grid-template-columns: 1fr 50px;
 }
 
+.liked-picture {
+    cursor: pointer;
+}
+
 .liked-picture img {
     display: inline;
 }
